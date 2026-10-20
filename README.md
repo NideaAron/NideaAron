@@ -15,7 +15,6 @@
   </a>
 </p>
 
-[GitHub](https://github.com/NideaAron)
 
 </div>
 
