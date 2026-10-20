@@ -5,7 +5,7 @@
 
 # ARON NIDEA
 
-### Aspiring Software Developer | BSIT Student
+### BSIT Student
 
 *Code. Learn. Build. Improve.*
 
