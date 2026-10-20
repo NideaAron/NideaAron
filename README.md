@@ -24,9 +24,6 @@
 
 Hello! I'm Aron, a Bachelor of Science in Information Technology student interested in software development and web technologies.
 
-
-🌐 **Portfolio:** [nideaaron.github.io/portfolio](https://nideaaron.github.io/portfolio/)
-
 - Currently learning and building web applications
 - Working with Laravel and PHP
 - Exploring frontend development and database management
