@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 <div align="center">
 
 # ARON NIDEA
@@ -39,14 +36,6 @@ Hello! I'm Aron, a Bachelor of Science in Information Technology student interes
 
 ### Makati Home Ville — Community Management System
 
-A Laravel-based community system developed for our capstone project to support neighborhood communication and services.
-
-**Planned features include:**
-- Community announcements and notifications
-- Complaint submission and management
-- Emergency alerts
-- Facility management
-
 [View Repository](https://github.com/AnthonyBaldoza/Makati-Home-Ville-Capstone)
 
 ## GitHub Statistics
@@ -64,7 +53,7 @@ A Laravel-based community system developed for our capstone project to support n
 
 <div align="center">
 
-*Thanks for visiting my profile! Feel free to explore my repositories.*
+*Thanks for visiting my profile!
 
 </div>
 <!--
