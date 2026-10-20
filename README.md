@@ -7,7 +7,13 @@
 
 ### Aspiring Software Developer | BSIT Student
 
-*Building projects, learning new technologies, and improving one commit at a time.*
+*Code. Learn. Build. Improve.*
+
+<p align="center">
+  <a href="https://nideaaron.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/VIEW%20MY-PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white" alt="View My Portfolio" />
+  </a>
+</p>
 
 [GitHub](https://github.com/NideaAron)
 
@@ -18,6 +24,9 @@
 ## About Me
 
 Hello! I'm Aron, a Bachelor of Science in Information Technology student interested in software development and web technologies.
+
+
+🌐 **Portfolio:** [nideaaron.github.io/portfolio](https://nideaaron.github.io/portfolio/)
 
 - Currently learning and building web applications
 - Working with Laravel and PHP
