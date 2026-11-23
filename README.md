@@ -3,7 +3,7 @@
 # ARON NIDEA
 
 <p align="center">
-  <img src="8e145599d4847e339828787162952035" width="100%" alt="Animated Banner">
+  <img src="banner.gif" width="100%" alt="Animated Banner">
 </p>
 
 ### BSIT Student
