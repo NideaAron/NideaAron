@@ -1,7 +1,10 @@
  <div align="center">
 
 # ARON NIDEA
-![Uploading 8e145599d4847e339828787162952035.gif…]()
+
+<div align="center">
+  <img src="assets/8e145599d4847e339828787162952035.gif" width="100%" alt="Animated Banner">
+</div>
 
 ### BSIT Student
 
