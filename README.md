@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # ARON NIDEA
 
@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/badge/VIEW%20MY-PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white" alt="View My Portfolio" />
   </a>
 </p>
-
 
 </div>
 
@@ -32,11 +31,47 @@ Hello! I'm Aron, a Bachelor of Science in Information Technology student interes
   <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode&theme=dark" alt="Technologies" />
 </p>
 
-## Featured Project
+## Featured Projects
 
-### Makati Home Ville — Community Management System
+### 🎯 Valorant Training Aim
 
-[View Repository](https://github.com/AnthonyBaldoza/Makati-Home-Ville-Capstone)
+**Project Overview:**
+
+Valorant Training Aim is a browser-based aim training game inspired by Valorant. It provides an interactive environment where players can practice their aiming accuracy, reaction time, and mouse control through target-shooting challenges.
+
+**Features:**
+- Interactive aim training gameplay
+- Customizable game settings
+- Leaderboards to track player performance
+- Sound effects and immersive game interface
+- Responsive web design
+
+**Technologies:** HTML, CSS, JavaScript
+
+<p>
+  <a href="https://nideaaron.github.io/Valorant-Training-Aim/">
+    <img src="https://img.shields.io/badge/PLAY%20GAME-FF4655?style=for-the-badge&logo=valorant&logoColor=white" alt="Play Game" />
+  </a>
+  <a href="https://github.com/NideaAron/Valorant-Training-Aim">
+    <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+  </a>
+</p>
+
+### 🏘️ Makati Home Ville — Community Management System
+
+**Project Overview:**
+
+A Laravel-based community management system designed to help manage homeowners association operations and resident services.
+
+**Features:**
+- Emergency alerts and announcements
+- Resident complaints management
+- Facility reservation management
+- Role-based access for administrators, staff, and residents
+
+**Technologies:** Laravel, PHP, PostgreSQL, HTML, CSS, JavaScript
+
+**[View Repository](https://github.com/AnthonyBaldoza/Makati-Home-Ville-Capstone)**
 
 ## GitHub Statistics
 
@@ -53,20 +88,6 @@ Hello! I'm Aron, a Bachelor of Science in Information Technology student interes
 
 <div align="center">
 
-*Thanks for visiting my profile!
+*Thanks for visiting my profile!*
 
 </div>
-<!--
-**NideaAron/NideaAron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
