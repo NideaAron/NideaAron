@@ -1,6 +1,7 @@
  <div align="center">
 
 # ARON NIDEA
+![Uploading 8e145599d4847e339828787162952035.gif…]()
 
 ### BSIT Student
 
