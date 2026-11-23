@@ -2,10 +2,9 @@
 
 # ARON NIDEA
 
-<div align="center">
-  <img src="<img width="1920" height="1080" alt="8e145599d4847e339828787162952035" src="https://github.com/user-attachments/assets/cd9a0031-e661-4f18-900f-f0fa09e5b2c5" />
-" width="100%" alt="Animated Banner">
-</div>
+<p align="center">
+  <img src="8e145599d4847e339828787162952035" width="100%" alt="Animated Banner">
+</p>
 
 ### BSIT Student
 
